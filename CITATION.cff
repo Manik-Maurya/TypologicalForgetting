@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite as below."
+authors:
+  - family-names: Maurya
+    given-names: Manik
+    orcid: "https://orcid.org/0009-0005-3554-693X"
+title: "Code for: Beyond the Single Forgetting Curve"
+version: 1.0.0
+date-released: 2026-12-01
+url: "https://github.com/Manik-Maurya/Maurya-2026-TypologicalForgetting"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Beyond the Single Forgetting Curve: A Typologically-Extended Wickelgren
+    Function, a Simulation Study, and a Pre-Registered Test of Error-Type-Specific
+    Memory Decay"
+  authors:
+    - family-names: Maurya
+      given-names: Manik
+      orcid: "https://orcid.org/0009-0005-3554-693X"
+  year: 2026
+  url: "https://doi.org/10.31234/osf.io/"
