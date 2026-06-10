@@ -5,7 +5,7 @@
 Maurya, M. (2026). Beyond the single forgetting curve: A typologically-extended 
 Wickelgren function, a simulation study, and a pre-registered test of 
 error-type-specific memory decay. *PsyArXiv preprint.*  
-DOI: [https://doi.org/10.31234/osf.io/INSERT](https://doi.org/10.31234/osf.io/INSERT)
+DOI: [https://doi.org/10.31234/osf.io/INSERT](https://doi.org/10.31234/osf.io/XXXXX)
 
 **Pre-registration (OSF, frozen):**  
 https://doi.org/10.17605/OSF.IO/YU6P5
