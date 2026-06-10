@@ -11,7 +11,7 @@ DOI: [https://doi.org/10.31234/osf.io/INSERT](https://doi.org/10.31234/osf.io/IN
 https://doi.org/10.17605/OSF.IO/YU6P5
 
 **All materials (PDFs, priors table, OSF archive):**  
-[INSERT OSF project URL]
+[https://osf.io/qm39j]
 
 ---
 
